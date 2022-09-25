@@ -70,6 +70,10 @@ zip -r -j flaskdemo.zip *
 - ![](ReadmeImages/FlaskAppDeployStatus.jpg) 
 - ![](ReadmeImages/FlaskAppDeployLogs.jpg) 
 
+### Flask App 
+- http://flaskdemo-env-1.eba-iudqxvwz.eu-central-1.elasticbeanstalk.com/
+- ![](ReadmeImages/FlaskApp.jpg) 
+
 ### Logs Investigation 
 - In case health status goes severe / failed / etc.,
 - ![](ReadmeImages/ElasticBeanstalkLogs.jpg)
