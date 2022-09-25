@@ -53,7 +53,7 @@ zip -r -j flaskdemo.zip *
 - Process
     - Go to : AWS `Elastic Beanstalk` service
     - Click `Creation Application`
-    - Application name `flasdemo`
+    - Application name `flaskdemo`
     - platform `python`
     - platform branch `Python 3.7 running on 64bit Amazon Linux 2`
     - Platform version `3.3.17 (Recommended)`
